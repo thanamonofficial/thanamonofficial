@@ -119,6 +119,10 @@ mission:
 
 </div>
 
+🌐 Website:
+https://sites.google.com/view/thanamon-sophonthanawat/
+https://www.linkedin.com/in/ธนมน-โสภณธนวัฒน์-020bb2409/
+
 ---
 
 <div align="center">
